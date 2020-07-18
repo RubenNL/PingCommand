@@ -1,0 +1,3 @@
+name: PingCommand
+version: ${project.version}
+main: nl.rubend.pingcommand.PingCommand
